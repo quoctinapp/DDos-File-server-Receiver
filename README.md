@@ -13,25 +13,14 @@ Navigate to the project directory and install the necessary dependencies:
 ```bash
 pip install requests tqdm
 ```
-Ensure the following modules are available in your environment:
-```python
-import requests
-import random
-import time
-import ipaddress
-import string
-import threading
-from concurrent.futures import ThreadPoolExecutor
-from tqdm import tqdm
-import os
-import platform
-```
+Ensure the following modules are available in your environment:\n
+![alt text](https://github.com/quoctinapp/DDos-File-server-Receiver/blob/main/required_module.png?raw=true)
 
 ### Step 3: Update the User-Agent File Path
 Before running the program, update the user-agent file path in `ddos.py` at **line 91**:
 Replace the existing path with the correct one.
 
-**This line:** 
+**This line:** \n
 ![alt text](https://github.com/quoctinapp/DDos-File-server-Receiver/blob/main/Line_91.png?raw=true)
 
 ### Step 4: Run the Program
