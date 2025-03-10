@@ -31,7 +31,7 @@ import platform
 Before running the program, update the user-agent file path in `ddos.py` at **line 91**:
 Replace the existing path with the correct one.
 
-**Example Placeholder:** `https://raw.githubusercontent.com/quoctinapp/DDos-File-server-Receiver/main/images/Line_91.png`
+**Example Placeholder:** `[https://raw.githubusercontent.com/quoctinapp/DDos-File-server-Receiver/main/images/Line_91.png](https://github.com/quoctinapp/DDos-File-server Receiver/blob/8295b9c639d5e44b226f547df9e522bc14479d3d/Line_91.png)`
 
 ### Step 4: Run the Program
 Execute the script using:
