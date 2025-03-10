@@ -27,7 +27,13 @@ import os
 import platform
 ```
 
-### Step 3: Run the Program
+### Step 3: Update the User-Agent File Path
+Before running the program, update the user-agent file path in `ddos.py` at **line 91**:
+Replace the existing path with the correct one.
+
+**Example Placeholder:** `https://raw.githubusercontent.com/quoctinapp/DDos-File-server-Receiver/main/images/Line_91.png`
+
+### Step 4: Run the Program
 Execute the script using:
 ```bash
 python ddos.py
