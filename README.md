@@ -18,7 +18,8 @@ Ensure the following modules are available in your environment:
 ![alt text](https://github.com/quoctinapp/DDos-File-server-Receiver/blob/main/required_module.png?raw=true)
 
 ### Step 3: Update the User-Agent File Path
-Before running the program, update the user-agent file path in `ddos.py` at **line 91**:
+Before running the program, update the user-agent file path in `ddos.py` at **line 91**.
+
 Replace the existing path with the correct one.
 
 **This line:**
